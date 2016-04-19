@@ -1,0 +1,15 @@
+{
+  "name": "gulp-ng-directive-template",
+  "version": "1.0.0",
+  "description": "pack angular html",
+  "main": "index.js",
+  "scripts": {
+    "test": "gulp test"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "js-string-escape": "^1.0.1",
+    "through2": "^2.0.1"
+  }
+}
